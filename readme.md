@@ -6,7 +6,7 @@
 <p align="center">Desenvolvimento do projeto integrador para elaboração de um "e-commerce" </p>
 
 <h1 align="center", href="#GIT-HUB">
-    <a href="https://github.com/USERLIMA/BACKLOG.git">🔗 GIT HUB</a>
+    <a href="https://github.com/BACKLOG-PI-DH/BACKLOG">🔗 GIT HUB</a>
 </h1>
 
 <p align="center">🚀 Ambiente git para versionamento de código do projeto</p>
