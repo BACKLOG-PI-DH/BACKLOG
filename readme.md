@@ -1,9 +1,14 @@
-![GitHub followers](https://img.shields.io/github/followers/USERLIMA?label=USERLIMA%20FOLLOWERS&style=social) ![GitHub watchers](https://img.shields.io/github/watchers/USERLIMA/BACKLOG?label=BACKLOG%20WATCHERS&style=social)
-
+![GitHub followers](https://img.shields.io/github/followers/USERLIMA?label=USERLIMA%20FOLLOWERS&style=social)
+![GitHub watchers](https://img.shields.io/github/followers/BACKLOG-PI-DH?label=BACKLOG-PI-DH%20FOLLOWERS&style=social)
+![Discord](https://img.shields.io/discord/1039156876883017818?label=DISCORD%20%5BBACKLOG%5D&style=social)
 
 <h1 align="center">PROJETO INTEGRADOR DH</h1>
 
 <p align="center">Desenvolvimento do projeto integrador para elaboração de um "e-commerce" </p>
+
+<h1 align="center", href="#DISCORD">
+    <a href="https://discord.gg/2E5y3wXj">🔗 DISCORD</a>
+</h1>
 
 <h1 align="center", href="#GIT-HUB">
     <a href="https://github.com/BACKLOG-PI-DH/BACKLOG">🔗 GIT HUB</a>
